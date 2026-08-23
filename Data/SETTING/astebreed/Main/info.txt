@@ -1,0 +1,14 @@
+﻿@ID [몽키해드]
+@TITLE [Astebreed]
+@KOR_TITLE [아스터브리드]
+@STORE [https://store.steampowered.com/app/283680/Astebreed_Definitive_Edition/]
+@LINK [https://blog.naver.com/killkimno/220161863579]
+@INFO
+[번역방식 : DB
+아스터브리드 한글화
+인게임 대화만 번역 가능, OCR 영역을 게임 대사창에 맞추면 됩니다.
+
+한글화 주소 : https://blog.naver.com/killkimno/220161863579]
+@DB [astebreed.txt]
+@SETTING [aste.conf]
+@DIC [asteDic.txt]

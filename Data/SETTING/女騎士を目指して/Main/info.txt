@@ -1,0 +1,8 @@
+﻿@ID [몽키해드]
+@TITLE [女騎士を目指して]
+@KOR_TITLE [여기사를 목표로]
+@INFO
+[번역방식 : 기계번역
+OCR : Win OCR - 일본어
+OCR 영역을 대화창에 맞추면 됩니다]
+@SETTING [女騎士を目指して.conf]

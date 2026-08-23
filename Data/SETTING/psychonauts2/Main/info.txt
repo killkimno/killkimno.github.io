@@ -1,0 +1,13 @@
+﻿@ID [몽키해드]
+@TITLE [Psychonauts 2]
+@KOR_TITLE [사이코너츠 2]
+@STORE [https://www.xbox.com/ko-KR/games/psychonauts-2]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+인게임 대사만 번역 가능 OCR 영역을 대화창에 맞춰주세요
+게임 설정에서 자막 활성화, 자막 폰트를 읽기 쉽도록 하는 설정 값 활성화, 큰 자막 설정은 하지 않았습니다
+
+오버레이 번역창 사용시 활성화 된 윈도우에서 추출 또는 화면을 가져올 윈도우 지정하기를 이용해주세요]
+
+@SETTING [psychonauts2.conf]

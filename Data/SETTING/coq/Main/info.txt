@@ -1,0 +1,10 @@
+﻿@ID [몽키해드]
+@TITLE [Caves of Qud]
+@KOR_TITLE [케이브 오브 쿼드]
+@LINK [https://gall.dcinside.com/board/view/?id=rlike&no=414351n]
+@STORE [https://store.steampowered.com/app/333640/Caves_of_Qud/]
+@DOWNLOAD_LINK [https://gall.dcinside.com/board/view/?id=rlike&no=414351]
+@INFO
+[번역방식 : 기계번역
+케이브 오브 쿼드 기계 번역 설정 링크
+자세한 사용법은 링크나 '다운로드 사이트로 이동'을 눌러서 확인해 주세요]

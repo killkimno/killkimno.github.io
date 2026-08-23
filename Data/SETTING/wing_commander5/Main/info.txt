@@ -1,0 +1,10 @@
+﻿@ID [몽키해드]
+@TITLE [Wing Commander: Prophecy]
+@KOR_TITLE [윙커맨더 5 : 예언]
+@STORE [https://www.gog.com/game/wing_commander_5_prophecy]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+윙커맨더 5 : 예언 기계번역 설정
+로비 / 인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다]
+@SETTING [wing commander prophecy.conf]

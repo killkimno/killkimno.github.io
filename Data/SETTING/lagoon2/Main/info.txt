@@ -1,0 +1,10 @@
+﻿@ID [몽키해드]
+@TITLE [라군 라운지2]
+@KOR_TITLE [라군 라운지2]
+@LINK [https://gall.dcinside.com/mgallery/board/view/?id=kaiju_09&no=36]
+@DOWNLOAD_LINK [https://gall.dcinside.com/mgallery/board/view/?id=kaiju_09&no=36]
+@INFO
+[번역방식 : DB
+라군 라운지2 번역 DB 링크
+자세한 사용법은 링크나 '다운로드 사이트로 이동'을 눌러서 확인해 주세요]
+

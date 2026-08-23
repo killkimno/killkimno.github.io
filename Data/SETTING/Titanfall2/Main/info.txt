@@ -1,0 +1,12 @@
+﻿@ID [몽키해드]
+@TITLE [Titanfall2]
+@KOR_TITLE [타이탄폴2]
+@STORE [https://store.steampowered.com/app/1237970/Titanfall_2/]
+@LINK [https://blog.naver.com/killkimno/222061747727]
+@INFO
+[번역방식 : DB
+타이탄폴2 한글화
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다
+한글화 주소 : https://blog.naver.com/killkimno/222061747727]
+@DB [titanfall2.txt]
+@SETTING [titanfall2.conf]

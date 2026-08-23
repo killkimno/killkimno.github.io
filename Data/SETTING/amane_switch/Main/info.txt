@@ -1,0 +1,16 @@
+﻿@ID [몽키해드]
+@TITLE [雨音スイッチ - Amane Switch -]
+@KOR_TITLE [아마네 스위치 리메이크]
+@STORE [https://store.steampowered.com/app/1692000/__Amane_Switch/]
+@LINK [https://blog.naver.com/killkimno/223055510464]
+@INFO
+[번역방식 : DB
+아마네 스위치 리메이크 한글화
+인게임 대화만 번역 가능, OCR 영역을 게임 대사창에 맞추면 됩니다.
+
+한글화 주소 : https://blog.naver.com/killkimno/223055510464]
+@DB [Amane.txt]
+@SETTING [Amane.conf]
+@DIC [AmaneDic.txt]
+
+

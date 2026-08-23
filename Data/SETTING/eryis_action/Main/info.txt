@@ -1,0 +1,12 @@
+﻿@ID [몽키해드]
+@TITLE [Eryi's Action]
+@KOR_TITLE [에리의 액션]
+@STORE [https://store.steampowered.com/app/261700/Eryis_Action/]
+@LINK [https://blog.naver.com/killkimno/70180812787]
+@INFO
+[번역방식 : DB
+에리의 액션 한글화
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다
+한글화 주소 : https://blog.naver.com/killkimno/70180812787]
+@DB [eryis.txt]
+@SETTING [eryis.conf]

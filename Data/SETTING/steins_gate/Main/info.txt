@@ -1,0 +1,11 @@
+﻿@ID [몽키해드]
+@TITLE [STEINS;GATE]
+@KOR_TITLE [슈타인즈 게이트]
+@STORE [https://store.steampowered.com/app/412830/STEINSGATE/]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+게임 언어를 일본어로 해주세요.
+영어로 할 경우 ocr 언어를 영어 , 번역 설정 역시 영어로 해주셔야 합니다.
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다]
+@SETTING [STEINS_GATE.conf]

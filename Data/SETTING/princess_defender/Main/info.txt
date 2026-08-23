@@ -1,0 +1,14 @@
+﻿@ID [몽키해드]
+@TITLE [Princess Defender]
+@KOR_TITLE [프린세스 디펜더]
+
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+OCR 영역을 대화창에 맞추면 됩니다
+
+인게임 대사만 번역됩니다
+OCR 영역 1 - 인게임 대사
+OCR 영역 2 - 캐릭터 설정의 스킬 설명
+]
+@SETTING [PrincessDefender.conf]

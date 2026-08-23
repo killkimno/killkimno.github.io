@@ -1,0 +1,13 @@
+﻿@ID [몽키해드]
+@TITLE [英雄伝説 黎 の軌跡]
+@KOR_TITLE [영웅전설 여의 궤적]
+@STORE [https://store.playstation.com/ja-jp/product/JP0425-CUSA27774_00-EDKURONOKISEKI01/]
+@LINK [https://blog.naver.com/killkimno/222523681986]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+인게임 대사만 번역 가능 OCR 영역을 대화창에 맞춰주세요
+영역 1 - 캐릭터 이름, 영역 2 - 대사
+플스 일본어판 번역을 위한 설정입니다.
+번역을 위해 플스 리모트나 캡쳐보드를 사용하셔야 합니다]
+@SETTING [legend_hero_kuro_no_kiseki.conf]

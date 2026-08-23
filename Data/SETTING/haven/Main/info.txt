@@ -1,0 +1,13 @@
+﻿@ID [몽키해드]
+@TITLE [Haven]
+@KOR_TITLE [헤이븐]
+@STORE [https://store.steampowered.com/app/983970/Haven/]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+헤이븐 기계번역 설정
+OCR 영역을 인게임 대화창에 맞추면 됩니다.
+추가로 자막 처리를 위해 창모드와 아래 옵션을 설정해야 합니다.
+Option -> Language -> Display Subtitles 와 Background for subtitles 활성화
+Option -> Accessibility -> Autoplay dialogs 비활성화 하셔야 합니다.]
+@SETTING [haven.conf]

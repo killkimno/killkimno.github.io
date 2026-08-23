@@ -1,0 +1,10 @@
+﻿@ID [몽키해드]
+@TITLE [裸執事]
+@KOR_TITLE [알몸집사]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+OCR 영역을 대화창에 맞추면 됩니다
+
+인게임 대사만 번역됩니다]
+@SETTING [Naked Butler.conf]

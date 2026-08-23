@@ -1,0 +1,13 @@
+﻿@ID [몽키해드]
+@TITLE [The Cat Lady]
+@KOR_TITLE [더 캣 레이디]
+@STORE [https://store.steampowered.com/app/253110/The_Cat_Lady/]
+@LINK [https://blog.naver.com/killkimno/220169108572]
+@INFO
+[번역방식 : DB
+더 캣 레이디한글화
+인게임 대화만 번역 가능, OCR 영역1,2를 게임 화면 전체로 설정하면 됩니다.
+한글화 주소 : https://blog.naver.com/killkimno/220169108572]
+@DB [cat.txt]
+@SETTING [cat.conf]
+@DIC [catDic.txt]

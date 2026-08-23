@@ -1,0 +1,12 @@
+﻿@ID [몽키해드]
+@TITLE [fairy_bloom_freesia	Fairy Bloom Freesia]
+@KOR_TITLE [꽃 피우는 요정 프리지아]
+@STORE [https://store.steampowered.com/app/214590/Fairy_Bloom_Freesia/]
+@LINK [https://blog.naver.com/killkimno/70179875816]
+@INFO
+[번역방식 : DB
+페어리 블룸 프리지아 한글화
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다
+한글화 주소 : https://blog.naver.com/killkimno/70179875816]
+@DB [fairy.txt]
+@SETTING [fairy.conf]

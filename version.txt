@@ -1,0 +1,22 @@
+@MORT_DIC_ENG [20230926] {http://kmonkeyhead.github.io/MORT_VERSION/Data/DIC/dic.txt}
+@MORT_DIC_JPN [20221207] {http://kmonkeyhead.github.io/MORT_VERSION/Data/DIC/dicJpn.txt}
+
+@DEV_VERSION [1271] {https://blog.naver.com/killkimno/223288405115}
+@DEV_MINOR_VERSION [1270-1271] {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/dev/MORT.exe}
+@MORT_DEV_FINISHED_VERSION  [1271] 
+
+@MORT_64_BIT_MESSSAGE ["새로운 버전을 확인했습니다.
+업데이트 하시겠습니까?
+다운로드 페이지로 이동합니다
+
+-주의 :더이상 32비트 os를 정식 지원하지 않습니다. 32비트 os를 사용할 경우
+https://blog.naver.com/killkimno/222936631523 버전을 받아주세요] 
+
+//32비트 버전
+@MORT_32BIT_MINOR_VERSION [1255-1256] {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/32bit/MORT.exe}
+@MORT_32BIT_VERSION [1269] {https://blog.naver.com/kmonkeyhead/222936631523}
+
+//경고 - 모트 버전은 가장 아래에 있어야 함.
+@MORT_MINOR_HASH {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/release/MORT.exe.sha256}
+@MORT_MINOR_VERSION [1313-1319] {https://github.com/kmonkeyhead/MORT_VERSION/releases/download/release/MORT.exe}
+@MORT_VERSION [1319] {https://blog.naver.com/kmonkeyhead/224271568660}

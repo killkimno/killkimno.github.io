@@ -1,0 +1,14 @@
+﻿@ID [몽키해드]
+@TITLE [Daikatana]
+@KOR_TITLE [다이카타나]
+@STORE [https://store.steampowered.com/app/242980/Daikatana/]
+@LINK [https://blog.naver.com/killkimno/220814713076]
+@INFO
+[번역방식 : DB
+다이카타나 한글화
+인게임 대화만 번역 가능, OCR 영역을 게임 대사창에 맞추면 됩니다.
+유저 패치를 꼭 하시기 바랍니다 : https://blog.naver.com/killkimno/220449229517
+한글화 주소 : https://blog.naver.com/killkimno/220814713076]
+@DB [daikatana.txt]
+@SETTING [daikatana.conf]
+@DIC [daikatanaDic.txt]

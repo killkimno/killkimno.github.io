@@ -1,0 +1,9 @@
+﻿@ID [몽키해드]
+@TITLE [The adventure of NAYU]
+@KOR_TITLE [나유의 모험]
+@STORE [https://store.steampowered.com/app/1476340/_/]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+인게임 대사만 번역 가능 OCR 영역을 대화창에 맞춰주세요]
+@SETTING [adventure_of_nayu.conf]

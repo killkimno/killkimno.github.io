@@ -1,0 +1,15 @@
+﻿@ID [몽키해드]
+@TITLE [Downfall]
+@KOR_TITLE [다운폴]
+@STORE [https://store.steampowered.com/app/364390/Downfall/]
+@LINK [https://blog.naver.com/killkimno/221047303037]
+@INFO
+[번역방식 : DB
+다운폴 한글화
+인게임 대화만 번역 가능, OCR 영역을 게임 대사창에 맞추면 됩니다.
+OCR 영역1은 전체로, 영역2는 대사창을 제외한 영역으로 맞춰주세요.
+
+한글화 주소 : https://blog.naver.com/killkimno/221047303037]
+@DB [downfall.txt]
+@SETTING [downfall.conf]
+@DIC [downfallDic.txt]

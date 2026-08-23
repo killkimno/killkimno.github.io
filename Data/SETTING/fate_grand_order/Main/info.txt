@@ -1,0 +1,19 @@
+﻿@ID [몽키해드]
+@TITLE [Fate/Grand Order]
+@KOR_TITLE [페이트/그랜드 오더]
+@STORE [https://www.fate-go.jp/]
+
+@INFO
+[번역방식 : 기계번역
+OCR : Win OCR - 일본어
+OCR 영역을 대화창에 맞추면 됩니다
+영역 1 - 캐릭터 이름
+영역 2 - 캐릭터 대사 첫 번째 줄
+영역 3 - 캐릭터 대사 두 번째 줄
+
+또는 영역3을 없애고 영역2를 대사창에 맞추시면 됩니다
+
+대화 선택지는 따로 하셔야 합니다
+
+]
+@SETTING [fate_grand_order.conf]

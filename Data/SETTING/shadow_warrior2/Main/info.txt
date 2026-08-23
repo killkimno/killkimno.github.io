@@ -1,0 +1,13 @@
+﻿@ID [몽키해드]
+@TITLE [Shadow Warrior2]
+@KOR_TITLE [쉐도우 워리어2]
+@STORE [https://store.steampowered.com/app/324800/Shadow_Warrior_2/]
+
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+OCR 영역을 대화창에 맞추면 됩니다
+
+인게임 대사만 번역됩니다
+]
+@SETTING [shadow warrior2.conf]

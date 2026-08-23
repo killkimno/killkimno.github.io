@@ -1,0 +1,11 @@
+﻿@ID [몽키해드]
+@TITLE [DMLC!]
+@KOR_TITLE [데스 매치 러브 코미디!]
+@STORE [https://store.steampowered.com/app/1265570/DMLC/]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+인게임 대사만 번역 가능 OCR 영역을 대화창에 맞춰주세요
+오버레이 번역창 사용시 활성화 된 윈도우에서 추출 또는 화면을 가져올 윈도우 지정하기를 이용해주세요]
+
+@SETTING [dmlc.conf]

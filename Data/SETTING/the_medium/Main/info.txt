@@ -1,0 +1,10 @@
+﻿@ID [몽키해드]
+@TITLE [The Medium]
+@KOR_TITLE [더 미디엄]
+@STORE [https://store.steampowered.com/app/1293160/The_Medium/]
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 영어
+원활한 인식을 위해 Setting -> TEXT  에서 Text Background - Solid , Speaker Color - off , Bold Text - on으로 해주세요
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다]
+@SETTING [The Medium.conf]

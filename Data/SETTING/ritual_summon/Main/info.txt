@@ -1,0 +1,9 @@
+﻿@ID [몽키해드]
+@TITLE [ニセモノ聖女の邪教討伐 / Ritual Summon]
+@KOR_TITLE [가짜 성녀의 사교 토벌]
+@INFO
+[번역방식 : 기계번역
+OCR : Win OCR - 영어
+OCR 영역을 대화창에 맞추면 됩니다
+오버레이 번역창 사용시 활성화 된 윈도우에서 추출 또는 화면을 가져올 윈도우 지정하기를 이용해주세요]
+@SETTING [RitualSummon.conf]

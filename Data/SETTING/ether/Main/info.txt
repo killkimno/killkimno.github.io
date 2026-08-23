@@ -1,0 +1,12 @@
+﻿@ID [몽키해드]
+@TITLE [ETHER VAPOR Remaster]
+@KOR_TITLE [에테르 베이퍼]
+@STORE [https://store.steampowered.com/app/214570/ETHER_VAPOR_Remaster/]
+@LINK [https://blog.naver.com/killkimno/70182297199]
+@INFO
+[번역방식 : DB
+에테르 베이퍼 한글화
+인게임 대화만 번역 가능, OCR 영역을 대화창에 맞추면 됩니다
+한글화 주소 : https://blog.naver.com/killkimno/70182297199]
+@DB [ether.txt]
+@SETTING [ether.conf]

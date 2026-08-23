@@ -1,0 +1,9 @@
+@SPLITE_NAVER_TOKEN {//////}
+@SPLITE_GOOGLE_TOEKN {////////}
+@ENABLE_ADVENCED_TOKEN {True}
+
+@DEEPL_URL {https://www.deepl.com/translator#en/ko/}
+@DEEPL_FORMAT "https://www.deepl.com/translator#{0}/{1}/{2}"
+@DEEPL_TARGET {document.getElementsByClassName("relative flex flex-1 flex-col")[0].innerText}
+@DEEPL_NEW_TARGET <document.getElementsByClassName("relative flex flex-1 flex-col")[{0}].innerText>
+

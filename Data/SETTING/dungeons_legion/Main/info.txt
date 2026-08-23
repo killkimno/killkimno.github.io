@@ -1,0 +1,12 @@
+﻿@ID [몽키해드]
+@TITLE [ダンジョンズレギオン / Dungeon's Legion]
+@KOR_TITLE [던전즈 레기온]
+
+@INFO
+[번역방식 : 기계 번역
+OCR : Win OCR - 일본어
+OCR 영역을 대화창에 맞추면 됩니다
+
+인게임 대사만 번역됩니다
+]
+@SETTING [dungeons_legion.conf]
