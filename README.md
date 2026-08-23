@@ -8,10 +8,10 @@ id : killkimno (kmonkeyhead / 몽키해드)
 
 OCR을 이용한 실시간 게임 번역기
 
-- [저장소](https://github.com/kmonkeyhead/MORT)
+https://github.com/kmonkeyhead/MORT
 
 ### 멕랩
 
 멕워리어 온라인 피팅 사이트
 
-- [웹사이트](https://kmonkeyhead.github.io/mwolab/)
+https://kmonkeyhead.github.io/mwolab/
