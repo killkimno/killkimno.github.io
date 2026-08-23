@@ -1,0 +1,15 @@
+<!doctype html>
+<meta charset="utf-8">
+<script>
+const path = location.pathname.toLowerCase();
+
+if (path === "/mwolab" || path.startsWith("/mwolab/")) {
+    location.replace(
+        "https://kmonkeyhead.github.io/mwolab/" +
+        location.search +
+        location.hash
+    );
+}
+</script>
+
+<h1>404</h1>
