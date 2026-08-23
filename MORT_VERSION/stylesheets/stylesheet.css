@@ -232,6 +232,28 @@ a {
 .site-footer-credits {
   color: #819198; }
 
+.project-list {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(16rem, 1fr));
+  gap: 1.25rem; }
+
+.project-card {
+  padding: 1.5rem;
+  border: 1px solid #dce6f0;
+  border-radius: 0.5rem;
+  background-color: #fff;
+  box-shadow: 0 0.25rem 0.75rem rgba(21, 87, 153, 0.08); }
+
+.project-card h2 {
+  margin: 0 0 0.5rem; }
+
+.project-card p {
+  margin: 0 0 1.25rem; }
+
+.project-link {
+  display: inline-block;
+  font-weight: bold; }
+
 @media screen and (min-width: 64em) {
   .site-footer {
     font-size: 1rem; } }
